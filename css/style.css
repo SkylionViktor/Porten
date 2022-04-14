@@ -203,7 +203,7 @@ body {
 }
 
 .top_body {
-  background: url("../image/Header/Rectangle_1.png") center/cover no-repeat;
+  background: url("./image/Header/Rectangle_1.png") center/cover no-repeat;
   height: 810px;
   display: -webkit-box;
   display: -ms-flexbox;
