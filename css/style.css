@@ -869,7 +869,7 @@ body {
 }
 
 .footer_info {
-  background: url("/image/body_img/Rectangle_4.png") center no-repeat;
+  background: url("./image/body_img/Rectangle_4.png") center no-repeat;
   background-size: cover;
   padding: 80px 0 100px 0;
 }
